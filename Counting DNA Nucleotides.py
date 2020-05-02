@@ -1,4 +1,4 @@
-DNA = input()
+DNA = input().upper()
 a = DNA.count("A")
 c = DNA.count("C")
 g = DNA.count("G")
